@@ -8,5 +8,4 @@ int main(int argc,char** argv){
       cout<<arr[i]<<endl;
       i++;
    }
-   return 0;
 }
